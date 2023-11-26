@@ -1,0 +1,203 @@
+  @import url(https://fonts.googleapis.com/css?family=Bropella);
+
+  @font-face {
+    font-family: Normal;
+    src: url(Bropella.ttf);
+}
+
+  .navbar a{
+    font-size: 15px;
+    font-family: 'Poppins';
+    color: #000000;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    float: right;
+
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flex-row {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 100px;
+
+  }
+
+  /* .navbar a:hover {
+    font-size: 17px;
+    font-family: 'Poppins';
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    float: right;
+
+  } */
+
+  .navbar-left a {
+    font-family: 'Poppins';
+    color: #000000;
+    float: left;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+  }
+
+  .top {
+    text-align: center;
+    font-size: 64px;
+    color: #000000;
+    font-family: 'Bropella';
+  }
+
+  .top-p {
+    text-align: center;
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 18px;
+  }
+  .bottom {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 18px;
+  }
+
+  .top-l {
+    line-height: 0%;
+    font-size: 96px;
+    font-family: 'Bropella';
+  }
+
+  .top-lp {
+    font-size: 16px;
+    font-family: 'Poppins';
+  }
+
+  .effect {
+    font-size: 16px;
+    font-family: 'Poppins';
+  }
+
+  /* .effect:hover {
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #2f2f2f;
+  } */
+
+  .top-r {
+    margin-right: 10px;
+    float: right;
+  }
+
+  .bottom-left {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 10;
+    margin-left: 300px;
+  }
+
+  .bottom-right {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 10;
+    margin-right: 300px;
+  }
+
+  .button1 {
+    padding: 1px 20px;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #000000;
+    font-family: 'Arima Madurai', cursive;
+    background-color: #f1f1f1;
+  
+  }
+
+  .button3 {
+    padding: 0;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #000000;
+    border: none;
+    background: none;
+  
+  }
+
+  .button2 {
+    padding: 1px 20px;
+    
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Arima Madurai', cursive;
+    background-color: #f1f1f1;
+  
+  }
+
+  .center {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .images {
+    text-align: center;
+  }
+
+  /* Clear floats after the columns
+  .row:after {
+    display: table;
+    clear: both;
+  } */
+
+  .title {
+    padding: 0px 40px;
+    font-size: 35px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .poster {
+    padding: 0px 40px;
+  }
+  
+  .gryph {
+    float: right;
+  }
+
+  .eye {
+    padding: 40px 150px;
+  }
+
+  .poster_desc {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .city_p {
+    padding: 0px 60px;
+  }
+
+  .exp {
+    padding: 40px 100px;
+
+  }
+
+  
+  .column {
+    float: left;
+    width: 50%;
+  }
+
+  .column-r {
+    width: 50%;
+  }
